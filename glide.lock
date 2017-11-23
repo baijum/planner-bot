@@ -1,0 +1,10 @@
+hash: 5a94c4f4cefc228a4a2d273939fc726b849634578c8d5840882826ff7f61d0b4
+updated: 2017-11-23T14:16:11.491404397+05:30
+imports:
+- name: github.com/kelseyhightower/envconfig
+  version: f611eb38b3875cc3bd991ca91c51d06446afa14c
+- name: github.com/technoweenie/multipartstreamer
+  version: a90a01d73ae432e2611d178c18367fbaa13e0154
+- name: gopkg.in/telegram-bot-api.v4
+  version: 2022d04b94f50056a09962b1ac81cdd821d20a55
+testImports: []
